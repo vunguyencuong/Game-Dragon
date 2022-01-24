@@ -1,4 +1,0 @@
-﻿  MakeGame.cpp
-C:\Users\ACER\source\repos\MakeGame\MakeGame\MakeGame.cpp(83,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\ACER\source\repos\MakeGame\MakeGame\MakeGame.cpp(84,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  MakeGame.vcxproj -> C:\Users\ACER\source\repos\MakeGame\Debug\MakeGame.exe
